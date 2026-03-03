@@ -18,6 +18,7 @@ Over the years I've contributed to 10+ large‑scale, complex projects at leadin
 - **MyOffice** (Office suite)
 - **Lenta** (Retail)
 - **T‑Bank** (Fintech)
+- **VK** (Social/GameDev)
 - And others in gaming, messaging, and enterprise.
 
 ## 📚 Teaching & Mentoring
