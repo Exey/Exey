@@ -6,8 +6,7 @@ I'm an **Architect / CTO** with a passion for building robust backend systems, b
 
 - 🏛️ **Software Architecture**: End‑to‑end design, C4, RFC, ADR, Markdown, Mermaid diagrams; ensuring alignment with Enterprise Architecture (TOGAF).
 - ⚙️ **SDLC & Infrastructure**: Introduced SDLC, HLD/LLD across all backend teams; CI/CD pipelines; OpenAPI code generation.
-- 🌉 **BFF Layer**: Planned and successfully implemented BFF from scratch in multiple companies.
-- 📐 **Architectural Artefacts**: Maintain architecture docs, custom report generators.
+- 🌉 **BFF Layer**: Planned and successfully implemented BFF from scratch in multiple companies. Maintain architecture docs, custom report generators.
 - 🔗 **Tech Stack**: Go, C/C++, C#, Java, JavaScript, Swift, Kotlin; **ML/AR/VR** background: Computer Vision, GPU programming (Metal, Vulkan, OpenGL), integration of ML models (LlamaIndex, LangChain) into mobile & backend products.
 - 🧩 **Domains**: E‑commerce (FMCG), Fintech, GameDev, Messengers, Office applications.
 
