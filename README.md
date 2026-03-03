@@ -1,4 +1,4 @@
-I'm an Architect/CTO with 20+ years of coding (since Basic at age 8) and 17+ years of professional experience. I design end‑to‑end backend systems, introduce SDLC/HLD/LLD, build BFF layers, and work across e‑commerce, fintech, gamedev, and office applications.
+I'm an Architect/CTO with 20+ years of coding (since Basic at age 8) and 20+ years of professional experience. I design end‑to‑end backend systems, introduce SDLC/HLD/LLD, build BFF layers, and work across e‑commerce, fintech, gamedev, and office applications.
 
 🔹 **Currently**: Architect / CTO  
 🔹 **Key areas**: Architecture (C4, RFC, ADR, TOGAF) · SDLC & infra · BFF implementation  
