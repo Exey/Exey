@@ -14,12 +14,10 @@ I'm an **Architect / CTO** with a passion for building robust backend systems, b
 ## 🏢 Companies I've Worked With
 
 Over the years I've contributed to 10+ large‑scale, complex projects at leading Russian IT companies:
-
 - **WB** (Marketplace)
 - **MyOffice** (Office suite)
 - **Lenta** (Retail)
 - **T‑Bank** (Fintech)
-
 - And others in gaming, messaging, and enterprise.
 
 ## 📚 Teaching & Mentoring
