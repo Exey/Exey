@@ -25,3 +25,5 @@ I'm an Architect/CTO with 20+ years of coding and professional experience. I des
 [![Metal](https://img.shields.io/badge/Metal-7A7A7A)](https://developer.apple.com/metal/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)](https://pytorch.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-4CAF50)](https://langchain.com/)
+
+🧪 My DS Bots(on Go): t.me/ToxicTalksBot
