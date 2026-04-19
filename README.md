@@ -26,5 +26,7 @@ I'm an Architect/CTO with 20+ years of coding and professional experience. I des
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)](https://pytorch.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-4CAF50)](https://langchain.com/)
 
-🧪 My DS/ML Projects: https://t.me/ToxicTalksBot https://apps.apple.com/ru/app/gymcore-ai/id6761953981
+🧪 **My DS/ML Projects**  
+💬 https://t.me/ToxicTalksBot — *Telegram bot for toxic comment detection*  
+📱 https://apps.apple.com/ru/app/gymcore-ai/id6761953981 — *AI-powered workout tracker with computer vision*
 
