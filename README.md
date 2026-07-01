@@ -1,7 +1,7 @@
 I'm an Architect/CTO with 20+ years of coding and professional experience. I design and implement end-to-end backend architectures, incorporate TDD, DevEx, and Scrum practices, build scalable development pipelines for AI agents, and have expertise in e-commerce, fintech, gamedev, and office applications.
 
 🔹 **Currently**: Architect / CTO  
-🔹 **Key areas**: Architecture (C4, RFC, ADR) · SDLC · HLD/LLD · BFF design · AI PDLC
+🔹 **Key areas**: Architecture (C4, RFC, ADR) · SDLC · HLD/LLD · BFF design · AI PDLC  
 🔹 **Domains**: E‑commerce (FMCG), Fintech, GameDev, Office apps  
 🔹 **Companies**: WB, MyOffice, Lenta, T‑Bank, VK  
 🔹 **Teaching (12 yrs)**: GeekBrains (2014–15), SkillBox (2016–18), Otus (2019–25), WB University (2023–26)  
