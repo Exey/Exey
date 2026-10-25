@@ -24,7 +24,6 @@ I'm an Architect/CTO with 20+ years of coding and professional experience. I des
 [![OpenGL](https://img.shields.io/badge/OpenGL-5586A4)](https://www.opengl.org/)
 [![Metal](https://img.shields.io/badge/Metal-7A7A7A)](https://developer.apple.com/metal/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)](https://pytorch.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-4CAF50)](https://langchain.com/)
 
 🧪 **My DS/ML Projects**  
 💬 https://t.me/ToxicTalksBot — *Telegram bot for toxic comment detection*  
