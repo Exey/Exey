@@ -19,11 +19,11 @@ I'm an Architect/CTO with 20+ years of coding and professional experience. I des
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF)](https://kotlinlang.org/)
 [![SQL](https://img.shields.io/badge/SQL-336791)](https://en.wikipedia.org/wiki/SQL)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20)](https://kafka.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED)](https://www.docker.com/)
 [![Vulkan](https://img.shields.io/badge/Vulkan-AC1622)](https://www.vulkan.org/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-5586A4)](https://www.opengl.org/)
 [![Metal](https://img.shields.io/badge/Metal-7A7A7A)](https://developer.apple.com/metal/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)](https://pytorch.org/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)](https://kubernetes.io/)
 
 🧪 **My DS/ML Projects**  
 💬 https://t.me/ToxicTalksBot — *Telegram bot for toxic comment detection*  
